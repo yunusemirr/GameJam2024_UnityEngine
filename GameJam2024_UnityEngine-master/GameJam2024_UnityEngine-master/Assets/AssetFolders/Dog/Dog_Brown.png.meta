@@ -1,0 +1,2332 @@
+fileFormatVersion: 2
+guid: ea4ddf7d81d59b04396f44b70597b6f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dog_Brown_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7513fd0c846f5042adb9b53b83d55b8
+      internalID: -2131551722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b231da1699b127246a34e8a97c8ad390
+      internalID: -314493953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13b9e9b18ea35040adf32da371cc30a
+      internalID: 460140120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36b657e70b74ad48928e4799d062c15
+      internalID: 475764328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128bfd2e77908a54aa7b13c3c7b9b67c
+      internalID: -2108531804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95fb0dcb394cce4c81b3734bfb27322
+      internalID: 489596286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83803ed959e16544caede33cbd01e037
+      internalID: -1023183270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137ec2dfcdc3ad4081546fcba818c39
+      internalID: 543092038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc53a410cfb5294d846d17bb8ac5a58
+      internalID: -1505840431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbaf7d14d10ee745b02dbb2c4021973
+      internalID: 1839336280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01faed615ae5f9545909d8f1f614ff65
+      internalID: -193892613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_13
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3309b60ad5ec4848b1c9cfbe2efef23
+      internalID: -924289753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 528
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64765c0077d28494ab07f013372c5a28
+      internalID: -122939168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 480
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a3f5a4a898b047a385999e86a2a31
+      internalID: 533398098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 480
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05012bb1c82e3e14093d4975cd4d18db
+      internalID: -1355804528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 480
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c39a0acd8d0d4b4a90eab655e398508
+      internalID: -353243050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 480
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9205e9d1bbbf164189a41e6796463d0
+      internalID: -1889970603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 480
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1b56a289c2464d824848ad44d9a23
+      internalID: 217568423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 480
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6d6f896ce482443add37ea1ad80e1e
+      internalID: 2116301559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 481
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae95c89e10b09041ba36a4f015764b2
+      internalID: 311576706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_23
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 480
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e857ea04b24a84e8653ea706215984
+      internalID: 181248737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 432
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417cbfdea5d4e2a41a116eaa3a1ccfb2
+      internalID: 1096648984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 432
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f2126e483133408e53529f19805b2
+      internalID: -1141754436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 432
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5f0cacc719cfd468cc542591dcb697
+      internalID: 975039396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 432
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b27e58e1cb117479b2e705ce865a4d
+      internalID: -1299786705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 432
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a653e0422be78624daf778030ad95640
+      internalID: 1987742009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 432
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de107eaa5b2e3c446904c8a83b6f6c63
+      internalID: -562871455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 432
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b6c6750a5643d458f1e14783ad6cb8
+      internalID: -2031405188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 384
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da5999c1bfff54487fcbb32ac40cde
+      internalID: -1788351542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 384
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c97241731e16e4c9becefffc9366c5
+      internalID: -1080959611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 384
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d310d332f3ad9f5409e830798ea8f7ba
+      internalID: 1916842766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 384
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243b927ffda0ea241b687f1dd07c7766
+      internalID: 1434386493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 384
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e61355c22e124c9f7b4b46f702b10
+      internalID: -1129529093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 384
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3465d03382a024f46b4750ccec44a194
+      internalID: -1747923841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8e0f13ef4b9b4e9726139062f06c8
+      internalID: -691993500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26749203a031c14eab97c4681226d61
+      internalID: 1452081422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 336
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b27453e881c94aaea485cc7153ffe
+      internalID: 416159355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 336
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4514fbd173e4c42b07685ec358168b
+      internalID: -781177650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 336
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d34790e86b8d54da823fa95f1c65d1
+      internalID: 1678627870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b97d2b4ee055ff4bb649570e64d20bf
+      internalID: 2077394935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 288
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a144b8f80d63464699a8b58af19408a
+      internalID: -1345864952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 288
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1e5f116305614eb215f3bef072314
+      internalID: 21526022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 288
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2458d361039e044aa6cef32154bf3a
+      internalID: -1101758229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 288
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70c322d32215704387cb6c909a2ab7f
+      internalID: 1043021744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_47
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 288
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7253cd319f073cc489dedab697564e63
+      internalID: -732724381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_48
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 288
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf866eb05c2a54695f6bd7e8bd1e50
+      internalID: -892786418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1ba23b773f104b82ca949e446d886
+      internalID: 97523032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070567d39d0a5ed499f20583bdbaaf27
+      internalID: 966603271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_51
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 240
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26cf9e4cc28e7a419a3dd313973c25f
+      internalID: 8095432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea87d9edc30a24a4f8c9a6a12dd16b4d
+      internalID: 149350875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 240
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e71e4c07e89ea4989e05a77559348a
+      internalID: -1421810581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_55
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 240
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fcbcc9f63b5ce4097c0aba8d011f1a
+      internalID: -767862664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 240
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641c992e8aec4b64aa27e9ee033d52f1
+      internalID: -1987844284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_57
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 240
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b301e7c99bf1cfc46a4d3bad18e68d35
+      internalID: -250821367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_58
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 240
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85250243c37dba74fa199c5c642b0b41
+      internalID: 518586585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_59
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 240
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb34ee186e088847b10a94ed03fa4d9
+      internalID: -1457524621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_61
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 240
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6aaf52e0fbc9545bc86ae4d805cba9
+      internalID: -1642001341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_62
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 240
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2131edd98313a41a9b51c380ab52bb
+      internalID: -622328912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_63
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 240
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9078406fd7f3244a94710acb167abd
+      internalID: -1887997297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a406c4e65d0a4c854efd2b6daac3b
+      internalID: -1310354419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_66
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 192
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2351e50dd2335404b9ec437220b5b301
+      internalID: -248918302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 192
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4c1aa3ee5c77d4a952e02445f5c63f
+      internalID: 1705392117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 192
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f6b2388b7a5d4bb15fe21e8ae65cf
+      internalID: -1326885151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_69
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 192
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f0460d6b8e3cd4d8f7a8d355e17e9d
+      internalID: 1290955287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_70
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 192
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e023775315b903943ac6b4db02e678c4
+      internalID: -1934293096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_71
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 193
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a422f4c5bc25459042e336e06d48f
+      internalID: -2093604062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_72
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 192
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb438649f84aa7649a8bad393aa0f8a9
+      internalID: -723490202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 144
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8479419921dc2469ff7b708a663235
+      internalID: -95594343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 144
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed15ae83acde9c4eae861cc42163820
+      internalID: -349940353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3738b066049d5ce428bce15f0b065761
+      internalID: -605788379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_76
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 144
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c115de84eccbead4eaa2dd7fbcd5240a
+      internalID: 724273999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_77
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef1bffd5774f26459470feb3f500d85
+      internalID: -722556075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_78
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 144
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc06dfa045c7a604b963cb3c766311e8
+      internalID: -872808045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_79
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 144
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4eeb31db884794c971c4901b0065b4
+      internalID: -699559411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d1179c5d3ecb944aa4fc08836c41c7
+      internalID: 36215767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 96
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb640a92c86e53f4092da7f88c84a955
+      internalID: 1894953410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_82
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 96
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a84808cdd980240bccffba10b4d974
+      internalID: -1293593651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_83
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 96
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716e5ff822a833942b7ef1073ddd7d9a
+      internalID: -1398545080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_84
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 96
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b86cd82fb913429edfbb98a903aa4
+      internalID: -1971319165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 96
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67a408b6166c54459be4f4c6ec90c5b
+      internalID: 1927432941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278653db800aa8240b746c7b5f296081
+      internalID: 1392327063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdd59673e657294daa42eec52644a76
+      internalID: -991181443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee605fdec3e40749a60f598f96b7230
+      internalID: -731310093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 48
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75497ac7ae7a4ae478cad10ec9470299
+      internalID: 1175767326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_90
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4146b6c7cf8874fa15d4f62b947b70
+      internalID: -732952864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804531a6d5f732a45b0cbcb787314df5
+      internalID: 655929036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daec7f963c226d0479b94cfee98d0ba8
+      internalID: -236312433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_93
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e39787053f00340aead94fdec90a79
+      internalID: -719482566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093b5fc872a91c048bfdf88f761afe96
+      internalID: 798138224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_96
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8c1cb015f04524ea4d740be7738a18
+      internalID: 2055149607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_97
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a846999ed99e67544af192398197525b
+      internalID: 1408144979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_99
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06a26f91fd8e1045bfced607e80105c
+      internalID: 1807971377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_100
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c278d0e2abb39bb40be65fb0030b043a
+      internalID: -2135974826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_101
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8c3935346d044ca9d4ae442e7b3d6
+      internalID: -1027314881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_102
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e244b6bcc9b658418751e8a82f7b77a
+      internalID: 1870407451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_103
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f001d76e71fdead41a8cd6ddc6104105
+      internalID: -714421171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_104
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932f47d11b412284a93ae9428f32b805
+      internalID: -680210114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_Brown_105
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35643fc2906bd4f44b0b8d19369d539f
+      internalID: -1254406007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dog_Brown_0: -2131551722
+      Dog_Brown_1: -314493953
+      Dog_Brown_10: 1839336280
+      Dog_Brown_100: -2135974826
+      Dog_Brown_101: -1027314881
+      Dog_Brown_102: 1870407451
+      Dog_Brown_103: -714421171
+      Dog_Brown_104: -680210114
+      Dog_Brown_105: -1254406007
+      Dog_Brown_106: -276112934
+      Dog_Brown_107: 1243595580
+      Dog_Brown_11: 817636419
+      Dog_Brown_12: -193892613
+      Dog_Brown_13: -924289753
+      Dog_Brown_14: -122939168
+      Dog_Brown_15: -1900012590
+      Dog_Brown_16: 533398098
+      Dog_Brown_17: -1355804528
+      Dog_Brown_18: -353243050
+      Dog_Brown_19: -1889970603
+      Dog_Brown_2: 460140120
+      Dog_Brown_20: 217568423
+      Dog_Brown_21: 2116301559
+      Dog_Brown_22: 311576706
+      Dog_Brown_23: 181248737
+      Dog_Brown_24: 1096648984
+      Dog_Brown_25: -1141754436
+      Dog_Brown_26: 975039396
+      Dog_Brown_27: -1299786705
+      Dog_Brown_28: 1987742009
+      Dog_Brown_29: -562871455
+      Dog_Brown_3: 475764328
+      Dog_Brown_30: -2031405188
+      Dog_Brown_31: -1788351542
+      Dog_Brown_32: -1080959611
+      Dog_Brown_33: 1916842766
+      Dog_Brown_34: 1434386493
+      Dog_Brown_35: -1129529093
+      Dog_Brown_36: -1747923841
+      Dog_Brown_37: -691993500
+      Dog_Brown_38: 1452081422
+      Dog_Brown_39: 416159355
+      Dog_Brown_4: 1629376038
+      Dog_Brown_40: -781177650
+      Dog_Brown_41: 1678627870
+      Dog_Brown_42: 2077394935
+      Dog_Brown_43: -1345864952
+      Dog_Brown_44: 21526022
+      Dog_Brown_45: -1101758229
+      Dog_Brown_46: 1043021744
+      Dog_Brown_47: -732724381
+      Dog_Brown_48: -892786418
+      Dog_Brown_49: 97523032
+      Dog_Brown_5: -2108531804
+      Dog_Brown_50: 966603271
+      Dog_Brown_51: 8095432
+      Dog_Brown_52: 149350875
+      Dog_Brown_53: -1486090487
+      Dog_Brown_54: -1421810581
+      Dog_Brown_55: -767862664
+      Dog_Brown_56: -1987844284
+      Dog_Brown_57: -250821367
+      Dog_Brown_58: 518586585
+      Dog_Brown_59: -1457524621
+      Dog_Brown_6: 489596286
+      Dog_Brown_60: 1390166443
+      Dog_Brown_61: -1642001341
+      Dog_Brown_62: -622328912
+      Dog_Brown_63: -1887997297
+      Dog_Brown_64: -114790394
+      Dog_Brown_65: -1310354419
+      Dog_Brown_66: -248918302
+      Dog_Brown_67: 1705392117
+      Dog_Brown_68: -1326885151
+      Dog_Brown_69: 1290955287
+      Dog_Brown_7: -1023183270
+      Dog_Brown_70: -1934293096
+      Dog_Brown_71: -2093604062
+      Dog_Brown_72: -723490202
+      Dog_Brown_73: -95594343
+      Dog_Brown_74: -349940353
+      Dog_Brown_75: -605788379
+      Dog_Brown_76: 724273999
+      Dog_Brown_77: -722556075
+      Dog_Brown_78: -872808045
+      Dog_Brown_79: -699559411
+      Dog_Brown_8: 543092038
+      Dog_Brown_80: 36215767
+      Dog_Brown_81: 1894953410
+      Dog_Brown_82: -1293593651
+      Dog_Brown_83: -1398545080
+      Dog_Brown_84: -1971319165
+      Dog_Brown_85: 1927432941
+      Dog_Brown_86: 1392327063
+      Dog_Brown_87: -991181443
+      Dog_Brown_88: -731310093
+      Dog_Brown_89: 1175767326
+      Dog_Brown_9: -1505840431
+      Dog_Brown_90: -732952864
+      Dog_Brown_91: 655929036
+      Dog_Brown_92: -236312433
+      Dog_Brown_93: -719482566
+      Dog_Brown_94: 798138224
+      Dog_Brown_95: -533135541
+      Dog_Brown_96: 2055149607
+      Dog_Brown_97: 1408144979
+      Dog_Brown_98: -1352437233
+      Dog_Brown_99: 1807971377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
